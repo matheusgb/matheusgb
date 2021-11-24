@@ -1,7 +1,7 @@
 ### Oi! 🤓
 
 - 📚 Estudante da [Trybe](https://www.betrybe.com/)
-- 💻 Novato em desenvolvimento web
+- 💻 Novato em Desenvolvimento Web
 - 🚀 Em busca do progresso
 
 <div align="center">
