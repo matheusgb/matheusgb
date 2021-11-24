@@ -1,6 +1,6 @@
 ### Oi! 🤓
 
-- 📚 Estudante da Trybe
+- 📚 Estudante da [Trybe](https://www.betrybe.com/)
 - 💻 Novato em desenvolvimento web
 - 🚀 Em busca do progresso
 
