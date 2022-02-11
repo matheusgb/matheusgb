@@ -3,7 +3,7 @@
 - 📚 Estudante da [Trybe](https://www.betrybe.com/)
 - 💻 Novato em Desenvolvimento Web
 - 🚀 Em busca do progresso
-- 👨‍💻 Meus projetos estão [aqui](https://matheusgb.github.io/)
+- 👨‍💻 Meus projetos front-end estão [aqui](https://matheusgb.github.io/)
 
 <div align="center">
   <a href="https://github.com/matheusgb">
