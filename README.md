@@ -3,6 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=matheusgb&color=lightgrey">
 </a>
   </div>
+  
 ### Oi! 🤓
 
 - 📚 Estudante da [Trybe](https://www.betrybe.com/)
