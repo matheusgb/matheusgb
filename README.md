@@ -5,7 +5,6 @@
 - 🚀 Em busca do progresso
 - 👨‍💻 Meus projetos front-end estão [aqui](https://matheusgb.github.io/)
 
-####
 <div align="center">
   <a href="https://github.com/matheusgb">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgb&layout=compact&langs_count=10&theme=dark"/>
