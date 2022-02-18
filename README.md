@@ -7,6 +7,9 @@
 
 <div align="center">
   <a href="https://github.com/matheusgb">
+    <a href="https://git.io/streak-stats">
+  <img align="center" height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=matheusgb&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgb&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
