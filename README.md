@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/matheusgb">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgb&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgb&langs_count=10&theme=dark"/>
 </div>
   
   <div align="center">
@@ -17,7 +17,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
   </div>
   
