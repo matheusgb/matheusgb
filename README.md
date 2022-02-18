@@ -7,7 +7,6 @@
 
 <div align="center">
   <a href="https://github.com/matheusgb">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusgb)](https://git.io/streak-stats)
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgb&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
