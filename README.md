@@ -29,6 +29,6 @@
     <br>
   <div align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=matheusgb&color=grey">
+    <img src="https://komarev.com/ghpvc/?username=matheusgb&color=lightgrey">
 </a>
   </div>
