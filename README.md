@@ -1,9 +1,3 @@
-  <div align="right">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=matheusgb&color=lightgrey">
-</a>
-  </div>
-  
 ### Oi! 🤓
 
 - 📚 Estudante da [Trybe](https://www.betrybe.com/)
