@@ -21,9 +21,11 @@
 </div>
   </div>
   
+  <div align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=matheusgb">
+    <img src="https://komarev.com/ghpvc/?username=matheusgb&color=grey">
 </a>
+  </div>
   
   ##
   <div align="center">
