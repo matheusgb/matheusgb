@@ -19,11 +19,13 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-    <div align="center">
+  </div>
+  
+      <div align="center">
       <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=matheusgb&color=grey>
 </a>
-  </div>
+              </div>
   
   ##
   <div align="center">
