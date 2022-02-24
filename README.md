@@ -19,7 +19,7 @@
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://img.icons8.com/color/96/000000/linux--v1.png">
 </div>
   </div>
   
