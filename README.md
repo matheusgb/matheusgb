@@ -1,7 +1,7 @@
 ### Oi! 🤓
 
 - 📚 Estudante da [Trybe](https://www.betrybe.com/)
-- 💻 Novato em Desenvolvimento Web
+- 💻 Desenvolvedor Front-end
 - 🚀 Em busca do progresso
 - 👨‍💻 Meus projetos front-end estão [aqui](https://matheusgb.github.io/)
 
