@@ -2,7 +2,7 @@
 
 - 📚 Estudante da [Trybe](https://www.betrybe.com/)
 - 💻 Desenvolvedor front-end
-- 🚀 Em busca do progresso
+- 🚀 Estudando MySQL, Docker, NodeJS, TypeScript, POO e MongoDB
 - 👨‍💻 Meus projetos front-end estão [aqui](https://matheusgb.github.io/)
 
 <div align="center">
