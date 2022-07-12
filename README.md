@@ -10,9 +10,9 @@ Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior com
 
 - 🧑‍💻 Afinidade com: ReactJS, MYSQL e NodeJS.
 - 📫 E-mail: matheusgbr98@gmail.com.
-- ⚡ Curiosidade aleatória: Meu cérebro não funciona sem água e atividade física.
+- ⚡ Curiosidade aleatória: Majoritariamente só escuto rap nacional.
 - 🔭 Estou trabalhando em 6 projetos individuais que demonstram meus atuais conhecimentos em frontend.
-- 🚀 Em busca da primeira oportunidade profissional.
+- 🚀 Em busca da primeira oportunidade profissional em frontend.
 
 Principais projetos:
 (em breve).
