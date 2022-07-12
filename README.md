@@ -1,10 +1,10 @@
-<h3 align="center">👋 Olá </h3>
+<h3 align="center">👋 Olá, como vai? </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/matheusgb/">LinkedIN</a>
 </p>
 
 ---
-📚 Sou desenvolvedor frontend formado na <a href="https://www.betrybe.com">Trybe</a>, interessado em UX Design. 
+📚 Sou desenvolvedor frontend formado na <a href="https://www.betrybe.com">Trybe</a> e interessado em UX Design. 
 
 Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior combustível nessa jornada é ajudar o máximo de pessoas possível através da tecnologia.
 
