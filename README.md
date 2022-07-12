@@ -1,23 +1,18 @@
-### Oi! 🤓
+<h3 align="center">👋 Olá </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheusgb/">LinkedIN</a>
+</p>
 
-- 📚 Estudante da [Trybe](https://www.betrybe.com/)
-- 💻 Desenvolvedor front-end
-- 🚀 Estudando MySQL, Docker, NodeJS, TypeScript, POO e MongoDB
+---
+📚 Sou desenvolvedor frontend formado na <a href="https://www.betrybe.com">Trybe</a>, interessado em UX Design. 
 
-<div align="center">
-  <a href="https://github.com/matheusgb">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgb&layout=compact&langs_count=10&theme=dark"/>
-</div>
-  
-  <div align="center">
-  <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-</div>
-  </div>
-  
-##
-  <div align="center">
-  <a href="https://www.linkedin.com/in/matheusgb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:matheusgbr98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
- 
+Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior combustível nessa jornada é ajudar o máximo de pessoas possível através da tecnologia.
+
+- 🧑‍💻 Afinidade com: ReactJS, MYSQL e NodeJS.
+- 📫 E-mail: matheusgbr98@gmail.com.
+- ⚡ Curiosidade aleatória: Meu cérebro não funciona sem água e atividade física.
+- 🔭 Estou trabalhando em 6 projetos individuais que demonstram meus atuais conhecimentos em frontend.
+- 🚀 Em busca da primeira oportunidade profissional.
+
+Principais projetos:
+(em breve).
