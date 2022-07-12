@@ -19,6 +19,9 @@
   <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="RTL" height="30" src="https://testing-library.com/img/octopus-128x128.png">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Mocha" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
+  <img align="center" alt="Chai" height="30" width="40" src="https://avatars.githubusercontent.com/u/1515293?s=200&v=4">
+  <img align="center" alt="Sinon" height="30" width="40" src="https://sinonjs.org/assets/images/logo.png">
   <img align="center" alt="Docker" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
