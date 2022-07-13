@@ -4,7 +4,7 @@
 </p>
 
 ---
-📚 Sou desenvolvedor FrontEnd formado na <a href="https://www.betrybe.com">Trybe</a> e interessado em UX Design. 
+📚 Sou desenvolvedor Front-End formado na <a href="https://www.betrybe.com">Trybe</a> e interessado em UX Design. 
 
 Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior combustível nessa jornada é ajudar o máximo de pessoas possível através da tecnologia.
 
