@@ -11,6 +11,6 @@ Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior com
 - 🧑‍💻 Afinidade com: ReactJS, MySQL e NodeJS.
 - 📫 E-mail: matheusgbr98@gmail.com.
 - ⚡ Curiosidade aleatória: Meu estilo musical se baseia em rap nacional.
-- 🔭 Estou trabalhando em 6 projetos individuais que demonstram meus atuais conhecimentos em frontend.
+- 🔭 Estou trabalhando em 6 projetos individuais que demonstram meus atuais conhecimentos.
 - 🚀 Em busca da primeira oportunidade profissional em tecnologia.
 - 🤓 Aprendendo: TypeScript e SCSS
