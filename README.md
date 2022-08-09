@@ -4,7 +4,7 @@
 </p>
 
 ---
-📚 Sou desenvolvedor FrontEnd formado na <a href="https://www.betrybe.com">Trybe</a> e interessado em UX Design. 
+📚 Sou estudante de desenvolvimento fullstack na <a href="https://www.betrybe.com">Trybe</a> e estudante de UX Design na <a href="https://www.coursera.org/professional-certificates/google-ux-design">Google UX Design</a>. 
 
 Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior combustível nessa jornada é ajudar o máximo de pessoas possível através da tecnologia.
 
