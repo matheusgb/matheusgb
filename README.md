@@ -8,7 +8,7 @@
 
 Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior combustível nessa jornada é ajudar o máximo de pessoas possível através da tecnologia.
 
-- 🧑‍💻 Afinidade com: ReactJS, Sequelize e NodeJS.
+- 🧑‍💻 Afinidade com: ReactJS, Sequelize, MYSQL e NodeJS.
 - 📫 E-mail: matheusgbr98@gmail.com.
 - ⚡ Curiosidade aleatória: Meu estilo musical se baseia em rap nacional.
 - 🔭 Estou trabalhando em 3 projetos fullstack que demonstram meus atuais conhecimentos.
