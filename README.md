@@ -11,6 +11,6 @@ Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior com
 - 🧑‍💻 Afinidade com: TypeScript, Sequelize, MYSQL e Node.
 - 📫 E-mail: matheusgbr98@gmail.com.
 - ⚡ Curiosidade aleatória: Meu estilo musical se baseia em rap nacional.
-- 🔭 Estou trabalhando em 3 projetos fullstack que demonstram meus atuais conhecimentos.
+- 🔭 Estou trabalhando em 3 projetos backend que demonstram meus atuais conhecimentos.
 - 🚀 Em busca da primeira oportunidade profissional em tecnologia.
 - 🤓 Aprendendo: Golang
