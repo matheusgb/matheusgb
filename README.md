@@ -1,8 +1,8 @@
 <h3 align="center">👋 Olá, como vai? </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/matheusgb/">LinkedIN</a>
-  ⚠️ Github em construção. ⚠️
 </p>
+<p align="center"> ⚠️ Github em construção. ⚠️ </p>
 
 ---
 🧑‍💻 Desenvolvedor back-end na <a href="https://www.linkedin.com/company/taghos-tecnologia/" target="_blank">Taghos</a>, estudante de desenvolvimento fullstack na <a href="https://www.betrybe.com" target="_blank">Trybe</a>.
