@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/matheusgb/">LinkedIN</a>
 </p>
-<p align="center"> ⚠️ Github em construção. ⚠️ </p>
 
 ---
 🧑‍💻 Desenvolvedor back-end na <a href="https://www.linkedin.com/company/taghos-tecnologia/" target="_blank">Taghos</a>, estudante de desenvolvimento fullstack na <a href="https://www.betrybe.com" target="_blank">Trybe</a>.
@@ -13,3 +12,5 @@ Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior com
 - 📫 E-mail: matheusgbr98@gmail.com.
 - ⚡ Curiosidade aleatória: Meu estilo musical se baseia em rap nacional.
 - 🤓 Aprendendo Python.
+
+<p align="center"> ⚠️ Os repositórios estão desatualizados perante meu conhecimento atual, estou desenvolvendo novos projetos que refletem o que sei atualmente. ⚠️ </p>
