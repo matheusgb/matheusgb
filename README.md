@@ -1,6 +1,7 @@
 <h3 align="center">👋 Olá, como vai? </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/matheusgb/">LinkedIN</a>
+  ⚠️ Github em construção. ⚠️
 </p>
 
 ---
@@ -11,5 +12,4 @@ Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior com
 - 🧑‍💻 Afinidade com: TypeScript, Golang, MYSQL, MongoDB.
 - 📫 E-mail: matheusgbr98@gmail.com.
 - ⚡ Curiosidade aleatória: Meu estilo musical se baseia em rap nacional.
-- 🔭 Github em construção.
 - 🤓 Aprendendo Python.
