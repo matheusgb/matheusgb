@@ -11,6 +11,5 @@ Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior com
 - 🧑‍💻 Afinidade com: TypeScript, Golang, MYSQL, MongoDB.
 - 📫 E-mail: matheusgbr98@gmail.com.
 - ⚡ Curiosidade aleatória: Meu estilo musical se baseia em rap nacional.
-- 🔭 Estou trabalhando em 2 projetos backend que demonstram meus atuais conhecimentos.
-- 🚀 Em busca da primeira oportunidade profissional em tecnologia.
-- 🤓 Aprendendo: Clickhouse e Clean Architecture.
+- 🔭 Github em construção.
+- 🤓 Aprendendo Python.
