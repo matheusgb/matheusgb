@@ -13,4 +13,4 @@ Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior com
 - ⚡ Curiosidade aleatória: Meu estilo musical se baseia em rap nacional.
 - 🤓 Aprendendo Python.
 
-<p align="center"> ⚠️ Os repositórios estão desatualizados perante meu conhecimento atual, estou desenvolvendo novos projetos que refletem o que sei atualmente. ⚠️ </p>
+<p>⚠️ Os repositórios estão desatualizados perante meu conhecimento atual, estou desenvolvendo novos projetos que refletem o que sei atualmente.</p>
