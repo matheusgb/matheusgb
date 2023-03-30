@@ -1,6 +1,6 @@
 <h3 align="center">👋 Olá, como vai? </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheusgb/">LinkedIN</a>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=17px> <a href="https://www.linkedin.com/in/matheusgb/">LinkedIN</a>
 </p>
 
 ---
