@@ -4,7 +4,7 @@
 </p>
 
 ---
-🧑‍💻 Desenvolvedor back-end na <a href="https://www.linkedin.com/company/taghos-tecnologia/" target="_blank">Taghos</a>, estudante de desenvolvimento fullstack na <a href="https://www.betrybe.com" target="_blank">Trybe</a>.
+🧑‍💻 Desenvolvedor back-end na <a href="https://www.linkedin.com/company/taghos-tecnologia/" target="_blank">Taghos</a>, formado em desenvolvimento fullstack na <a href="https://www.betrybe.com" target="_blank">Trybe</a>.
 
 Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior combustível nessa jornada é ajudar o máximo de pessoas possível através da tecnologia.
 
