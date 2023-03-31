@@ -8,7 +8,7 @@
 
 Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior combustível nessa jornada é ajudar o máximo de pessoas possível através da tecnologia.
 
-- 🧑‍💻 Afinidade com: TypeScript, Golang, MySQL, MongoDB.
+- 🧑‍💻 Afinidade com: TypeScript, GoLang, MySQL, MongoDB.
 - 📫 E-mail: matheusgbr98@gmail.com.
 - ⚡ Curiosidade aleatória: Meu estilo musical se baseia em rap nacional.
 - 🤓 Aprendendo Python.
