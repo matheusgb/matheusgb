@@ -11,4 +11,4 @@ Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior com
 - 🧑‍💻 Afinidade com: TypeScript, GoLang, SQL, MongoDB, Docker.
 - 📫 E-mail: matheusgbr98@gmail.com.
 - ⚡ Curiosidade aleatória: Meu estilo musical se baseia em rap nacional.
-- 🤓 Estudando Java, Computação em Nuvem (GPC) e Clean Architecture.
+- 🤓 Estudando Java, Computação em Nuvem e Clean Architecture.
