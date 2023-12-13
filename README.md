@@ -4,11 +4,11 @@
 </p>
 
 ---
-🧑‍💻 Desenvolvedor back-end na <a href="https://www.linkedin.com/company/taghos-tecnologia/">Taghos</a>, formado em desenvolvimento fullstack na <a href="https://www.betrybe.com">Trybe</a> e estudando engenharia de software(1/7) na <a href="https://www.unopar.com.br/">UNOPAR</a>.
+🧑‍💻 Desenvolvedor back-end na <a href="https://www.linkedin.com/company/taghos-tecnologia/">Taghos</a>, formado em desenvolvimento fullstack na <a href="https://www.betrybe.com">Trybe</a> e estudando engenharia de software(2/7) na <a href="https://www.unopar.com.br/">UNOPAR</a>.
 
 Gosto muito de compartilhar conhecimento e aprender com os outros. Meu maior combustível nessa jornada é ajudar o máximo de pessoas possível através da tecnologia.
 
 - 🧑‍💻 Afinidade com: TypeScript, GoLang, SQL, MongoDB, Docker.
 - 📫 E-mail: matheusgbr98@gmail.com.
 - ⚡ Curiosidade aleatória: Meu estilo musical se baseia em rap nacional.
-- 🤓 Estudando Java, Computação em Nuvem e Clean Architecture.
+- 🤓 Estudando Computação em Nuvem e Arquitetura de Software.
