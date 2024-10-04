@@ -10,5 +10,5 @@
 | [library](https://github.com/matheusgb/library)  | 📚 \| API de gerenciamento de livraria.  | GoLang |
 | [scraper](https://github.com/matheusgb/scraper)  | 💼 \| A job vacancy data scraper.  | GoLang |
 | [chunks](https://github.com/matheusgb/chunks)  | 📄 \| Upload de videos em chunks.  | JavaScript |
-| [snake](https://github.com/matheusgb/snake)  | [wip] 🐍 \| A snake game.  | C++ |
+| [snake](https://github.com/matheusgb/snake)  | 🐍 \| A snake game made for my journey into computational physics.  | C++ |
 
