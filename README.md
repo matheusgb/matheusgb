@@ -1,4 +1,4 @@
-📚 Currently learning C++ and Computational Physics. I'm documenting my study journey here: [dev.to/matheusgb](https://dev.to/matheusgb)
+📚 Currently learning C/C++ and Computational Physics. I'm documenting my study journey here: [dev.to/matheusgb](https://dev.to/matheusgb)
 
 
 | Project | Description | Language |
