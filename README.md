@@ -11,6 +11,9 @@
 | [django-hexagonal-example](https://github.com/matheusgb/django-hexagonal-example) | 🏗️ \| Hexagonal boilerplate. | Python |
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/matheusgb?ext=heatmap"/>
+  <a href="https://leetcode.com/matheusgb/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/matheusgb?ext=heatmap"/>
+  </a>
 </div>
+
 
