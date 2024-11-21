@@ -1,6 +1,3 @@
-📚 Currently learning C/C++ and Computational Physics. I'm documenting my study journey here: [dev.to/matheusgb](https://dev.to/matheusgb)
-
-
 | Project | Description | Language |
 | ------------- | ------------- | ------------- |
 | [cyclists](https://github.com/matheusgb/cyclists)  | 🚲 \| A comprehensive bike event management API empowering users to create, organize, and participate in cycling events.  | GoLang |
@@ -11,4 +8,9 @@
 | [scraper](https://github.com/matheusgb/scraper)  | 💼 \| A job vacancy data scraper.  | GoLang |
 | [chunks](https://github.com/matheusgb/chunks)  | 📄 \| Upload de videos em chunks.  | JavaScript |
 | [snake](https://github.com/matheusgb/snake)  | 🐍 \| A snake game made for my journey into computational physics.  | C++ |
+| [django-hexagonal-example](https://github.com/matheusgb/django-hexagonal-example) | 🏗️ \| Hexagonal boilerplate. | Python |
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/matheusgb?ext=heatmap"/>
+</div>
 
