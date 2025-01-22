@@ -9,15 +9,6 @@
 | [chunks](https://github.com/matheusgb/chunks)  | 📄 \| Upload de videos em chunks.  | JavaScript |
 | [snake](https://github.com/matheusgb/snake)  | 🐍 \| A snake game made for my journey into computational physics.  | C++ |
 | [django-hexagonal-example](https://github.com/matheusgb/django-hexagonal-example) | 🏗️ \| Hexagonal boilerplate. | Python |
-<div align="center">
-  </a>
-    <a href="https://projecteuler.net/progress=matheusgb" target="_blank">
-    <img src="https://projecteuler.net/profile/matheusgb.png"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://leetcode.com/matheusgb/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/matheusgb?ext=heatmap"/>
-</div>
+
 
 
