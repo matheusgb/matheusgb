@@ -9,6 +9,7 @@
 | [chunks](https://github.com/matheusgb/chunks)  | 📄 \| Upload de videos em chunks.  | JavaScript |
 | [snake](https://github.com/matheusgb/snake)  | 🐍 \| A snake game made for my journey into computational physics.  | C++ |
 | [django-hexagonal-example](https://github.com/matheusgb/django-hexagonal-example) | 🏗️ \| Hexagonal boilerplate. | Python |
+| [nuxt-boilerplate](https://github.com/matheusgb/nuxt-boilerplate) | 🎨 \| Nuxt + Prisma + Bootstrap boilerplate. | TypeScript |
 
 
 
