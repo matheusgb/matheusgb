@@ -1,15 +1,24 @@
-| Project | Description | Language |
-| ------------- | ------------- | ------------- |
-| [cyclists](https://github.com/matheusgb/cyclists)  | 🚲 \| A comprehensive bike event management API empowering users to create, organize, and participate in cycling events.  | GoLang |
-| [bundesliga](https://github.com/matheusgb/bundesliga)  | ⚽ \| An API to calculate the performance of the top and bottom teams in the Bundesliga for the 2023/24 season.  | TypeScript |
-| [housing](https://github.com/matheusgb/housing)  | [wip] 🏠 \| Microservice for housing rent using clean architecture.  | Java |
-| [autocomplete](https://github.com/matheusgb/autocomplete)  | 🗒️ \| A full-stack app leveraging WebSocket and Elasticsearch, built purely for enjoyment and to expand my skill set.  | GoLang|
-| [library](https://github.com/matheusgb/library)  | 📚 \| API de gerenciamento de livraria.  | GoLang |
-| [scraper](https://github.com/matheusgb/scraper)  | 💼 \| A job vacancy data scraper.  | GoLang |
-| [chunks](https://github.com/matheusgb/chunks)  | 📄 \| Upload de videos em chunks.  | JavaScript |
-| [snake](https://github.com/matheusgb/snake)  | 🐍 \| A snake game made for my journey into computational physics.  | C++ |
-| [django-hexagonal-example](https://github.com/matheusgb/django-hexagonal-example) | 🏗️ \| Hexagonal boilerplate. | Python |
-| [nuxt-boilerplate](https://github.com/matheusgb/nuxt-boilerplate) | 🎨 \| Nuxt + Prisma + DaisyUI boilerplate. | TypeScript |
+### Backend Engineer · Go · Distributed Systems
 
+Stack principal: **Go · PostgreSQL · Redis · RabbitMQ · Docker · Hexagonal Architecture**
 
+Tech Lead na [Taghos](https://github.com/taghos), trabalhando com back-end de plataformas de mídia, mensageria e APIs de alta carga desde 2022.
 
+---
+
+### Agora
+
+- 📖 AWS SAA-C03 — em andamento
+- 🔜 CKAD — próxima fase
+- 🔜 Katas de sistemas distribuídos — rate limiter, worker pool, idempotência, circuit breaker, cache TTL
+
+---
+
+### Projetos
+
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [cyclists](https://github.com/matheusgb/cyclists) | API de gerenciamento de eventos de ciclismo | Go |
+| [autocomplete](https://github.com/matheusgb/autocomplete) | Full-stack com WebSocket e Elasticsearch | Go |
+| [library](https://github.com/matheusgb/library) | API de gerenciamento de livraria | Go |
+| [scraper](https://github.com/matheusgb/scraper) | Scraper de vagas de emprego | Go |
