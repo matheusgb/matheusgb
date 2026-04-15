@@ -1,5 +1,3 @@
-Senior Software Engineer | Backend · Fullstack | Tech Lead
-
 Trabalho com desenvolvimento de software desde 2022, com foco em backend e fullstack.
 Atualmente como Tech Lead na Taghos, liderando arquitetura e entrega de produtos SaaS.
 
