@@ -7,12 +7,12 @@ Atualmente como Tech Lead na Taghos, liderando arquitetura e entrega de produtos
 
 **Stack principal**
 
-- Backend: Go · Node.js · TypeScript · JavaScript
+- Backend: Go, Node.js, TypeScript, JavaScript
 - Frontend: React
-- Bancos: PostgreSQL · MongoDB · Redis · ClickHouse
-- Mensageria: RabbitMQ · Kafka
-- Infra: Docker · GitHub Actions · Loki · Grafana
-- Arquitetura: Hexagonal · Clean Architecture · DDD · SOLID · TDD
+- Bancos: PostgreSQL, MongoDB, Redis, ClickHouse
+- Mensageria: RabbitMQ, Kafka
+- Infra: Docker · GitHub Actions, Loki, Grafana, AWS
+- Arquitetura: Hexagonal, Clean Architecture, DDD, SOLID, TDD
 
 **Highlights**
 
