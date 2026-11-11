@@ -23,6 +23,7 @@ Desenvolvo software profissionalmente desde set/2022 (Taghos). Hoje sou AI Fulls
 
 - [lunch-rush](https://github.com/matheusgb/lunch-rush): sistema de entregas em Go em 6 tiers, de monólito modular a células com fencing verificado em TLA+. Tudo simulado localmente, com os limites documentados.
 - [edge](https://github.com/matheusgb/edge): quatro projetos sobre o caminho de uma requisição, do cache à operação em Kubernetes.
+- [cyclists](https://github.com/matheusgb/cyclists): API REST em Go (Fiber, GORM, PostgreSQL) para gestão de eventos de ciclismo: login com JWT, inscrição em eventos, e-mail de redefinição de senha, testes unitários e e2e contra Postgres no CI.
 - [forge](https://github.com/matheusgb/forge): laboratório de padrões de backend em Python (idempotência, retry, circuit breaker, RLS).
 
 Contato: matheusgbr98@gmail.com · [LinkedIn](https://www.linkedin.com/in/matheusgb)
