@@ -26,4 +26,10 @@ Desenvolvo software profissionalmente desde set/2022 (Taghos). Hoje sou AI Fulls
 - [cyclists](https://github.com/matheusgb/cyclists): API REST em Go (Fiber, GORM, PostgreSQL) para gestão de eventos de ciclismo: login com JWT, inscrição em eventos, e-mail de redefinição de senha, testes unitários e e2e contra Postgres no CI.
 - [forge](https://github.com/matheusgb/forge): laboratório de padrões de backend em Python (idempotência, retry, circuit breaker, RLS).
 
+**Contribuições open source** (pull requests aceitos)
+
+- [Shopify/toxiproxy#760](https://github.com/Shopify/toxiproxy/pull/760): em Go, corrige o travamento em que `RemoveToxic` ficava bloqueado, segurando o mutex da coleção, quando nada lia o canal de saída de um toxic. Aceito em 14/10/2026.
+- [Boeing/config-file-validator#591](https://github.com/Boeing/config-file-validator/pull/591): em Go, o formatador de JSONC passa a usar vírgula final por padrão em objetos e arrays expandidos; a chave `trailing-commas` (`all`, `none`, `preserve`) continua valendo. Aceito em 27/07/2026.
+- [go-playground/validator#1603](https://github.com/go-playground/validator/pull/1603): em Go, o validador `fqdn` passa a rejeitar nomes com mais de 253 caracteres (antes só limitava cada label a 63), com testes de limite; a issue [#1602](https://github.com/go-playground/validator/issues/1602) foi aberta por mim. Aceito em 29/07/2026.
+
 Contato: matheusgbr98@gmail.com · [LinkedIn](https://www.linkedin.com/in/matheusgb)
